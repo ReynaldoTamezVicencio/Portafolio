@@ -1,0 +1,16 @@
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\bin\Debug\MENÚ DE OPCIONES.exe.config
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\bin\Debug\MENÚ DE OPCIONES.exe
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\bin\Debug\MENÚ DE OPCIONES.pdb
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\bin\Debug\MENÚ DE OPCIONES.xml
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.MENÚ1.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.MULTIPLOS.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.PROMEDIO.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.TABLAS.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ_DE_OPCIONES.TARJETA.resources
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.exe
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.xml
+C:\Users\reyna\OneDrive\Escritorio\Materias\Logica de programacion\MENÚ DE OPCIONES\obj\Debug\MENÚ DE OPCIONES.pdb
