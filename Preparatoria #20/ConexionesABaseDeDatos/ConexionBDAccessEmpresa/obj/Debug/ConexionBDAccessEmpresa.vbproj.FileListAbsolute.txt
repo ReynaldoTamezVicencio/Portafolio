@@ -1,0 +1,12 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\bin\Debug\ConexionBDAccessEmpresa.exe.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\bin\Debug\ConexionBDAccessEmpresa.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\bin\Debug\ConexionBDAccessEmpresa.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\bin\Debug\ConexionBDAccessEmpresa.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.BDAccessEmpresa.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDAccessEmpresa\obj\Debug\ConexionBDAccessEmpresa.pdb

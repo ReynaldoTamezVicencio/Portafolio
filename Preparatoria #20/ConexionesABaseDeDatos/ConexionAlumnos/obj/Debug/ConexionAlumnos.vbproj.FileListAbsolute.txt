@@ -1,0 +1,12 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\bin\Debug\ConexionAlumnos.exe.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\bin\Debug\ConexionAlumnos.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\bin\Debug\ConexionAlumnos.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\bin\Debug\ConexionAlumnos.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.FrmAlumnos.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionAlumnos\obj\Debug\ConexionAlumnos.pdb
