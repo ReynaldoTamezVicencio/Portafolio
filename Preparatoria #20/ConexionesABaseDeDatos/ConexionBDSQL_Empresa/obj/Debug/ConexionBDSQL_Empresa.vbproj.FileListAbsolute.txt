@@ -1,0 +1,12 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\bin\Debug\ConexionBDSQL_Empresa.exe.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\bin\Debug\ConexionBDSQL_Empresa.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\bin\Debug\ConexionBDSQL_Empresa.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\bin\Debug\ConexionBDSQL_Empresa.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.BDSQL_Empresa.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionBDSQL_Empresa\obj\Debug\ConexionBDSQL_Empresa.pdb

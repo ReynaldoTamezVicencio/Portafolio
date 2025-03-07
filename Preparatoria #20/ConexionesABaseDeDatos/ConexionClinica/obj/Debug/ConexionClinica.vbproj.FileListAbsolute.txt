@@ -1,0 +1,12 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\bin\Debug\ConexionClinica.exe.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\bin\Debug\ConexionClinica.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\bin\Debug\ConexionClinica.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\bin\Debug\ConexionClinica.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.frmClinica.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionClinica\obj\Debug\ConexionClinica.pdb

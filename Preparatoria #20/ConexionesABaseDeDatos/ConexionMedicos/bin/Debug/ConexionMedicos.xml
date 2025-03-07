@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ConexionMedicos
+</name>
+</assembly>
+<members>
+<member name="T:ConexionMedicos.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ConexionMedicos.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ConexionMedicos.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.CONSULTASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.MEDICOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.PACIENTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.CONSULTASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.MEDICOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.PACIENTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.CONSULTASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.MEDICOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSet.PACIENTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.CONSULTASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.MEDICOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.PACIENTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ConexionMedicos.CLÍNICA_VICENCIODataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ConexionMedicos.CLÍNICA_VICENCIODataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ConexionMedicos.CLÍNICA_VICENCIODataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.UpdateAll(ConexionMedicos.CLÍNICA_VICENCIODataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ConexionMedicos.CLÍNICA_VICENCIODataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

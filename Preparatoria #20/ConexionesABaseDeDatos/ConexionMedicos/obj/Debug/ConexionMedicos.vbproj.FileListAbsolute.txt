@@ -1,0 +1,12 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\bin\Debug\ConexionMedicos.exe.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\bin\Debug\ConexionMedicos.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\bin\Debug\ConexionMedicos.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\bin\Debug\ConexionMedicos.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.frmMEDICOS.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas en Entorno Visual\PROGRAMAS\ETAPA 4\ConexionMedicos\obj\Debug\ConexionMedicos.pdb
