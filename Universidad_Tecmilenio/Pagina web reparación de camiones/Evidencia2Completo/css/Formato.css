@@ -1,0 +1,358 @@
+/* ---------------------Para todo---------------------------- */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Candara, sans-serif;
+}
+
+
+/* Cuerpo */
+body {
+		display: grid;
+		min-height: 100vh;
+		grid-template-rows: auto 1fr auto;
+		width: auto;
+		
+}
+
+/* Formato para los links y botones */
+li, a, button {
+
+	font-weight: 500;
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+	
+}
+
+/* ---------------------------Formato para el menu---------------------------- */
+header {
+	position: sticky;
+	top: 0;
+	display: flex;
+	background-color: #1B357A;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px 10px;
+	width: 100%;
+
+}
+
+.logo {
+	cursor: pointer;
+	margin-right: auto;
+	height: 150px;
+	width: 220px;
+	border-radius: 40px;
+}
+
+.link_navegacion{
+	list-style: none;
+}
+
+.link_navegacion li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+.link_navegacion li a {
+	color: white;
+	text-decoration: none;
+}
+
+.link_navegacion li a:hover{
+		transition: all 0.4s ease 0s;
+		color: #00FBFF;
+}
+
+button {
+	padding: 9px 25px;
+	background-color: #0095D8;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3s ease 0s;
+	margin-left: 20px;
+
+}
+
+
+button:hover {
+	background-color: #034563;
+}
+
+/*------------------------- Formato para el pie de la página ---------------------------*/
+.pie-pagina {
+	
+	width: 100%;
+	background-color: #011A3E;
+	
+}
+
+.pie-pagina .agrupacion-1 {
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	display:grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 50px;
+	padding: 45px 0px;
+}
+
+.pie-pagina .agrupacion-1 .contenido-pie figure {
+	width: 150px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pie-pagina .agrupacion-1 .contenido-pie figure img{
+	width: 220px;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pie-pagina .agrupacion-1 .contenido-pie h2 {
+	color: white;
+	margin-bottom: 25px;
+	font-size: 20px;
+	text-align: justify;
+}
+
+.pie-pagina .agrupacion-1 .contenido-pie p {
+	color: #CFE3FF;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+.pie-pagina .agrupacion-1 .redes a img{
+	display: inline-block;
+	text-decoration: none;
+	width: 40px;
+	height: 40px;
+	line-height: 45px;
+	margin-right: 20px;
+	
+}
+
+hr {
+	width: 100%;
+	height: 4px;
+	background-color: white;
+	
+}
+
+.pie-pagina .agrupacion-2 {
+	text-align: center;
+	color: ghostwhite;
+	padding: 15px 10px;
+}
+
+/*--------------------------------- Pagina de inicio -------------------------------*/
+
+/*----- Bienvenidos------- */
+.imagen-fija {
+	background-image: url('../Imagenes/ReparacionMantenimiento.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 20em;
+	padding-top: 6em;
+	
+}
+
+.titulo-bienvenida {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.imagen-texto {
+	display: flex;
+	margin-top: 30px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 40px;
+	align-items: center;
+}
+
+.imagen-inicial{
+	height: 400px;
+	width: 450px;
+	border-radius: 40px;
+}
+
+.texto-inicial {
+	font-size: 25px;
+	text-align: justify;
+
+
+}
+
+/* -------------------------------Productos y carrito--------------------------- */
+
+.tabla{
+	align-items: center;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.tabla-productos img{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	height: 200px;
+	width: 200px;
+}
+
+.tabla-productos {
+	margin: 10px;
+}
+
+.datos {
+	font-size: 20px;
+}
+
+.buscar-producto {
+	width: 400px;
+	border-radius: 10px;
+	margin-left: 10px;
+	border: 4px solid #034563;
+}
+
+.tabla-productos .fila th{
+	font-size: 20px;
+	padding-left: 10px;
+	margin-right: 20px;
+}
+
+
+
+/* ------------------------Perfil---------------------------- */
+.perfil {
+	width: 150px;
+	height: 150px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.datos-perfil {
+	font-size: 20px;
+	margin-bottom: 70px;
+}
+
+
+/* ----------------------------------Nosotros------------------ */
+.nosotros-texto {
+	font-size: 20px;
+	text-align: justify;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.nosotros-imagen {
+	height: 400px;
+	width: 600px;
+	border-radius: 50px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+/* -----------------------------------Tipo de pago------------------------------ */
+.tarjetas {
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+
+}
+
+.btn-tarjeta {
+	font-size: 18px;
+	height: 40px;
+	width: 200px;
+}
+
+
+/* ------------------------------------Carrito------------------------- */
+
+.cantidad-producto{
+	width: 60px;
+	border-radius: 5px;
+	border: 4px solid #034563;
+	height: 30px;
+}
+
+/* -------------------------------- formulario Citar, comentarios y pedir trabajo---------------------------- */
+
+.formulario-cita {
+	width: 600px;
+	background-color: ghostwhite;
+	padding: 30px;
+	margin: auto;
+	margin-top: 30px;
+	border-radius: 4px;
+	margin-bottom: 100px;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.titulo-frm-cita h4{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+.cita-txt {
+	width: 100%;
+	background: ghostwhite;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid deepskyblue;
+	font-size: 18px;
+}
+
+.cita-txt-fecha {
+	width: 70px;
+	height: 40px;
+	background: ghostwhite;
+	border-radius: 4px;
+	c
+	font-size: 18px;
+	padding: 10px;
+
+}
+/* -------------------------------- formulario Envianos comentarios---------------------------- */
+
+.PaginaInicio {
+	padding: 20px;
+	margin: auto; 
+}
+
+.volverMenu {
+	padding: 20px;
+	margin: auto; 
+}
+
+/* -------------------------------- formulario Información---------------------------- */
+.Contactos{
+
+	width: 120px;
+	height: 40px;
+	background-color: ghostwhite;
+	border-radius: 5px;
+}
+.textoContactos{
+top: 0;
+  left: 0;
+  width: 80%;
+  min-width: 400px;
+  background-color: ghostwhite;
+  margin-bottom: 90px;
+
+
+}
