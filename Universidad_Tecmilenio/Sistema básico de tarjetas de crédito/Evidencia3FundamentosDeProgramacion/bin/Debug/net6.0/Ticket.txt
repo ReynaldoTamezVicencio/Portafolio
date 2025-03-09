@@ -1,0 +1,7 @@
+Bancos Ferrocencio
+Cuenta: Juan Montes
+Saldo anterior: 1000
+Cantidad depositada: 700
+Saldo actual: 1700
+
+¡Gracias por su visita!

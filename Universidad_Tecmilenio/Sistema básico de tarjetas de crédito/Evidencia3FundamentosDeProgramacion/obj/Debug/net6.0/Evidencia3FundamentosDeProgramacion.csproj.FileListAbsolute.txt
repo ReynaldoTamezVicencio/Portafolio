@@ -1,0 +1,15 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\bin\Debug\net6.0\Evidencia3FundamentosDeProgramacion.exe
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\bin\Debug\net6.0\Evidencia3FundamentosDeProgramacion.deps.json
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\bin\Debug\net6.0\Evidencia3FundamentosDeProgramacion.runtimeconfig.json
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\bin\Debug\net6.0\Evidencia3FundamentosDeProgramacion.dll
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\bin\Debug\net6.0\Evidencia3FundamentosDeProgramacion.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.csproj.AssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.dll
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\refint\Evidencia3FundamentosDeProgramacion.dll
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\Evidencia3FundamentosDeProgramacion.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Fundamentos de programación\Evidencia3FundamentosDeProgramacion\obj\Debug\net6.0\ref\Evidencia3FundamentosDeProgramacion.dll
