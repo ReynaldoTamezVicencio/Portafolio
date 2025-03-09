@@ -1,0 +1,139 @@
+<!DOCTYPE  html>
+<html>
+<head>
+	<link rel="icon"href="PEMEX.png">
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="Formato.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="">
+	  	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+	<title>Historial de pozos</title>
+</head>
+<body>
+
+	<section class = "menu">
+		<b><p class = "titulo">Historial de pozos petroleros</p></b>
+		<div align="center"><img src="PEMEX.png" style="heigth: 300px; width:300px;image-orientation: e;"></div>
+
+		<p> Seleccione grupo de pozos vecinos: </p>
+
+		<div class="dropdown-item">
+			<a href="#">Grupo de pozos</a>
+			<div class = "Fmenu">
+				<ul>
+					<li><a href="#">Grupo Cadereyta</a></li>
+					<li><a href="#">Grupo Villahermosa</a></li>
+					<li><a href="#">Grupo Reynosa</a></li>
+				</ul>
+			</div>
+		</div>
+		<br>
+
+		<p align="center"> Mapa: </p>
+
+		<table style="width: 100%; border-width: 5px; background-color: #D1F7D2;">
+			<tr>
+				<td><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14073.89299736739!2d-99.95019963071722!3d25.600957843172605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662d9e1a57e4869%3A0x6ab04988fab2264a!2sJ%20C%20B!5e1!3m2!1ses!2smx!4v1699748656111!5m2!1ses!2smx" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+				<td>
+					<p align="left"> <b>Información del lugar </b></p>
+					<p align="left"> <b>Suelo: </b> Rocoso <br> <b>Clima: </b> Soleado <br> <b>Ecosistema:</b> Árido <br> <b>Humedad:</b> 10% <br> <b>Vientos:</b> 30km/h</p>
+				</td>
+			</tr>
+
+		</table>
+
+		
+		<p> <b>Grupo de pozos actual:</b> Cadereyta </p>
+		<br>
+
+		<table style="width: 100%; border-width: 5px; background-color: #D1F7D2;">
+			<tr>
+				<td>
+					
+						<img src="lupa.png" height="40" width="40">
+						<input class="input" type="text" placeholder="Buscar" style="width: 300px;">
+
+
+						<div class="dropdown-item">
+							<a href="#">Filtros</a>
+							<div class = "Fmenu">
+								<ul>
+									<li><a href="#">Ordenar por metros de excavación</a></li>
+									<li><a href="#">Ordenar por costo</a></li>
+									<li><a href="#">Ordenar de A - Z</a></li>
+									<li><a href="#">Ordenar de Z - A</a></li>
+									<li><a href="#">Ordenar por cantidad de reportes de problemas</a></li>
+
+								</ul>
+							</div>
+						</div>
+				
+					
+				</td>
+
+				
+					
+				
+			</tr>
+		</table>
+
+		<table style="width: 100%;">
+			<tr>
+				<th> Nombre del pozo </th>
+				<th> Metros excavados</th>
+				<th> Reportes de problemas</th>
+				<th> Informe </th>
+				<th> Costo </th>
+			</tr>
+				
+			<tr>
+				<td> Cadereyta </td>
+				<td> 3000 metros</td>
+				<td> <a href="Problemas.html"> <img src="advertencia.png" height=30 width=30> </a></td>
+				<td> <a href="Informe.html"> <img src="informe.png" height=30 width=30></a> </td>
+				<td> $50,000,000 </td>
+			</tr>
+			<tr>
+				<td> La Boca </td>
+				<td> 4000 metros</td>
+				<td> <a href="Problemas.html"> <img src="advertencia.png" height=30 width=30> </a></td>
+				<td> <a href="Informe.html"> <img src="informe.png" height=30 width=30></a> </td>
+				<td> $60,000,000 </td>
+			</tr>
+			<tr>
+				<td> Jiménez </td>
+				<td> 5000 metros</td>
+				<td> <a href="Problemas.html"> <img src="advertencia.png" height=30 width=30> </a></td>
+				<td> <a href="Informe.html"> <img src="informe.png" height=30 width=30></a> </td>
+				<td> $71,000,000 </td>
+			</tr>
+		</table>
+		<br>
+		<div align="center">
+			<img src="GráficaResumen.jpg" height="500" width="700">
+			<p><b>Resumen gráfico del historial</b></p>
+		</div>
+		<br>
+		<div>
+			<p><b>Promedio de costos:</b> $65,000,000</p>
+			<p><b>Promedio de metros excavados:</b> 4500 mts</p>
+			<p><b>Promedio de cantidad de problemas:</b> 2</p>
+			<a href="#"><button>Convertir a pdf</button></a>
+			<a href="#"><button>Convertir a excel</button></a>
+			
+		</div>
+		<br>
+		<br>
+		<div align="center">
+			<a href="Menu.html"><button>Regresar al menú</button></a>
+			
+		</div>
+	
+		
+		
+	</section>
+	
+</body>
+</html>

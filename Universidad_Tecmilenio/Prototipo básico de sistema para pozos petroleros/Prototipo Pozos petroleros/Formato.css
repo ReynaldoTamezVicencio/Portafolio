@@ -1,0 +1,132 @@
+/* Para todo */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial Nova, sans-serif;
+	font-size: 18px;
+}
+
+/* Cuerpo */
+body {
+	background-image: url('FondoVerde.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* Menu */
+.menu {
+
+	width: 1000px;
+	background-color: ghostwhite;
+	padding: 30px;
+	margin: auto;
+	margin-top: 30px;
+	border-radius: 5px;
+	margin-bottom: 100px;
+	box-shadow: 7px 13px 37px #000;
+
+	top: 20%;
+	left: 20%;
+	right: 20%;
+	left: 20%;
+}
+
+.titulo{
+	font-size: 30px;
+	text-align: center;
+}
+
+
+
+button {
+	cursor: pointer;
+	border: none;
+	border-radius: 10px !important;
+	background-color: #30853A;
+	color: white;
+	padding: 7px;
+	
+
+}
+
+button:hover{
+	transition: 0.3s;
+	background-color: #01490A;
+}
+
+
+/* Menú desplegable  */
+.dropdown-item {
+	position: relative;
+	
+}
+
+.dropdown-item > a {
+	color: whitesmoke;
+	text-decoration: none;
+	background-color: #30853A;
+	padding: 10px;
+	border-block: black;
+}
+
+.dropdown-item .Fmenu {
+	display: none;
+	border-radius: 3px;
+	overflow: hidden;
+	background-color: whitesmoke;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 1.0);
+	position: absolute;
+	min-width: 150px;
+}
+
+.dropdown-item:hover .Fmenu{
+	display: block;
+}
+
+.dropdown-item .Fmenu ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-align: left;
+	color: whitesmoke;
+}
+
+.dropdown-item .Fmenu li a {
+	color: black;
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+}
+
+.dropdown-item .Fmenu li a:hover{
+	background-color: #30853A;
+	color: white;
+
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: #D1F7D2;
+}
+
+th, td {
+	padding: 20px;
+}
+
+th, tr {
+	text-align: center;
+	border-width: 5px;
+}
+
+.input {
+	
+	background: ghostwhite;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid deepskyblue;
+	font-size: 18px;
+}
