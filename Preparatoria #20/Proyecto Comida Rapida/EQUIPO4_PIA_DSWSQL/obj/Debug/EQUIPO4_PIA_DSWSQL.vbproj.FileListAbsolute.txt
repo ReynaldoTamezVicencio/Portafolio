@@ -1,0 +1,11 @@
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\bin\EQUIPO4_PIA_DSWSQL.dll.config
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\bin\EQUIPO4_PIA_DSWSQL.dll
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\bin\EQUIPO4_PIA_DSWSQL.pdb
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\bin\EQUIPO4_PIA_DSWSQL.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.vbprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.Resources.resources
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.vbproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.vbproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.dll
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.xml
+C:\Users\reyna\OneDrive\Escritorio\MATERIAS\MATERIAS\Desarrollo de Sistemas Web con SQL\ETAPA 4\EQUIPO4_PIA_DSWSQL\obj\Debug\EQUIPO4_PIA_DSWSQL.pdb
