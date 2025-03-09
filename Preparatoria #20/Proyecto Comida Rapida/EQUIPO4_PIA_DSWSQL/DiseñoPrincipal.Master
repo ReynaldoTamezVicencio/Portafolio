@@ -1,0 +1,68 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="DiseñoPrincipal.master.vb" Inherits="EQUIPO4_PIA_DSWSQL.DiseñoPrincipal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Formato.css" rel="stylesheet" type="text/css" />
+    <title></title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 69px;
+        }
+        .auto-style2 {
+            width: 1081px;
+        }
+    </style>
+       
+</head>
+<body style="height: 32px" background="Madera.jpg">
+    
+    <form id="form1" runat="server">
+        
+            <div align="center">
+
+           <table style="width:100%;">
+        <tr>
+            <td colspan="3">
+            
+            <asp:Panel ID="Panel1" runat="server" BackColor="#FF6666" Height="31px">
+            <div align="center">    
+                <asp:Label ID="Label1" runat="server" Text="Restaurante Comida rápida &quot;Equipo 4&quot;" class="FuenteLetraBlanco"></asp:Label>
+            </div>
+            </asp:Panel>
+
+            </td>
+        </tr>
+        <tr>
+            <td class="auto-style1">&nbsp;</td>
+            <td class="auto-style2" bgcolor="yellow">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <p>
+                        <br />
+                    </p>
+                </asp:ContentPlaceHolder>
+                </td>
+            <td>
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/Menu.JPG" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3"> <asp:Panel ID="Panel2" runat="server" BackColor="#FF6666" Height="31px">
+                <asp:Label ID="Label2" runat="server" Text="Derechos reservados" ForeColor="White"></asp:Label>
+            </asp:Panel>
+
+            </td>
+        </tr>
+    </table>
+
+           </div>
+     
+    </form>
+    
+</body>
+</html>
